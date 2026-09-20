@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.*
+*.db
+*.db-shm
+*.db-wal
+__pycache__/
+*.pyc
+.venv/
+venv/
+dist/
+build/
+.DS_Store
+archive (1)/
+archive (1).zip
+tempCodeRunnerFile.py
