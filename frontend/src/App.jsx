@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import "./App.css";
 
-const API = "http://localhost:5000";
+const API = "https://footpass-backend.onrender.com";
 
 const clamp = (number, min, max) =>
     Math.min(Math.max(number, min), max);
